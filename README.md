@@ -28,7 +28,7 @@ Developed an Android dashboard app using MIT App Inventor for real-time monitori
 
 <p align="center">
 Poster: <br/>
-<img src="https://ibb.co/Z6cwG8jm" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://drive.google.com/file/d/1B1QKbJSKLdLqqf3iM37TxgxSVCtWWAqq/view?usp=sharing" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
