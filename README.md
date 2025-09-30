@@ -13,16 +13,17 @@ Developed an Android dashboard app using MIT App Inventor for real-time monitori
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>C++</b>
-- <b>ESP8266</b>
-- <b>FireBase</b>
-- <b>Mit App Inventor</b>
-- <b>DHT11 Temperature and Humidity Sensor</b>
-- <b>Arduino</b>
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MIT App Inventor](https://img.shields.io/badge/MIT%20App%20Inventor-FF6F00?style=for-the-badge)
+![DHT11 Sensor](https://img.shields.io/badge/DHT11%20Sensor-00897B?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-<h2>Environments Used </h2>
+<h2>Environments Used</h2>
 
-- <b>Arduino IDE</b>
+![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
 
 <h2>Program walk-through:</h2>
 
