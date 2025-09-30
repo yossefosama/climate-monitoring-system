@@ -38,7 +38,7 @@ Poster: <br/>
 <img src="https://ibb.co/9jM2Vbt" alt="Prototype 2" height = "178" width = "250" align = "right">
 <img src="https://ibb.co/s94wvkXF" alt="Prototype 3" height = "178" width = "250">
 <br/>
-لا
+
 <p align="center">
 App Logic Design (Mit App Inventor) : <br/>
 <img src="https://ibb.co/27CwmgYc" height="80%" width="80%" alt="Disk Sanitization Steps"/>
