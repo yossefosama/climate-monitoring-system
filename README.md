@@ -26,25 +26,26 @@ Developed an Android dashboard app using MIT App Inventor for real-time monitori
 
 <h2>Program walk-through:</h2>
 
-<p align="center">
+<h2 align="center">
 Poster: <br/>
 <img src="https://github.com/yossefosama/climate-monitoring-system/blob/8ad78c10f9d7a84fdddf85868bda94187cf2b793/Images/Poster.jpg" height="80%" width="80%" alt="Poster Image"/>
 <br />
 <br />
-</p>
+</h2>
 
 <h2>Graphical User Interface (Android App)</h2>
-<img src="https://github.com/yossefosama/climate-monitoring-system/blob/8ad78c10f9d7a84fdddf85868bda94187cf2b793/Images/App%20GUI%201.png" alt="Prototype 1" height = "178" width = "250" align = "right">
-<img src="https://github.com/yossefosama/climate-monitoring-system/blob/8ad78c10f9d7a84fdddf85868bda94187cf2b793/Images/App%20GUI%202.png" alt="Prototype 2" height = "178" width = "250" align = "right">
-<img src="https://github.com/yossefosama/climate-monitoring-system/blob/8ad78c10f9d7a84fdddf85868bda94187cf2b793/Images/App%20GUI%203.png" alt="Prototype 3" height = "178" width = "250">
+<img src="https://github.com/yossefosama/climate-monitoring-system/blob/8ad78c10f9d7a84fdddf85868bda94187cf2b793/Images/App%20GUI%201.png" alt="Prototype 1" height = "178" width = "250" align = "left">
+<img src="https://github.com/yossefosama/climate-monitoring-system/blob/8ad78c10f9d7a84fdddf85868bda94187cf2b793/Images/App%20GUI%202.png" alt="Prototype 2" height = "178" width = "250" align = "center">
+<img src="https://github.com/yossefosama/climate-monitoring-system/blob/8ad78c10f9d7a84fdddf85868bda94187cf2b793/Images/App%20GUI%203.png" alt="Prototype 3" height = "178" width = "250" align = "right">
+<br/>
 <br/>
 
-<p align="center">
-App Logic Design (Mit App Inventor) : <br/>
+<h2 align="center">
+App Logic Design (Mit App Inventor) : <br/> <br/>
 <img src="https://github.com/yossefosama/climate-monitoring-system/blob/8ad78c10f9d7a84fdddf85868bda94187cf2b793/Images/App%20Logic.png" height="80%" width="80%" alt="App Blocks"/>
 <br />
 <br />
-</p>
+</h2>
 
 <!--
  ```diff
